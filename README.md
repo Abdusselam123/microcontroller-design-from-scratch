@@ -13,9 +13,6 @@ Chapter 1: Architectural Design for GPIO Write Operations
 Chapter 2: ...
 
 Chapter 3: ...
-.
-
-.
 
 📜 License
 For detailed information regarding the license, please refer to the "LICENSE" file.
@@ -35,9 +32,6 @@ Bölüm 1: GPIO Birimine Yazma İşlemini Gerçekleştirecek Mimari Tasarımı
 Bölüm 2: ...
 
 Bölüm 3: ...
-.
-
-.
 
 📜 Lisans
 Lisans hakkında detaylı bilgi için "LICENSE" dosyasına göz atınız.
