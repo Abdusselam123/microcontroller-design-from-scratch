@@ -15,7 +15,6 @@ This project is an improvised design process where new questions arise at every 
 * **Chapter 2:** ...
 
 * **Chapter 3:** ...
-
 .  
 .  
 
@@ -41,7 +40,6 @@ Bu proje, önceden çizilmiş kesin sınırları olan bir müfredattan ziyade, h
 * **Bölüm 2:** ...
 
 * **Bölüm 3:** ...
-
 .  
 .  
 
