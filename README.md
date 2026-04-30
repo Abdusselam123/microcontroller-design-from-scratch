@@ -1,5 +1,5 @@
-🌍Language: English
-# microcontroller-design-from-scratch 
+🌍 Language: English
+# microcontroller-design-from-scratch
 A step-by-step guide to designing 32-bit microcontroller architecture from gate-level to registers. For educational purposes.
 
 🚀 About the Project
@@ -9,17 +9,19 @@ This project is an improvised design process where new questions arise at every 
 
 📁 Table of Contents
 Chapter 1: Architectural Design for GPIO Write Operations
+
 Chapter 2: ...
+
 Chapter 3: ...
 .
+
 .
 
 📜 License
 For detailed information regarding the license, please refer to the "LICENSE" file.
---------------------------------------------------------------------------------------
 
-🌍Language: Turkish
-#Sıfırdan-Mikrodenetleyici-Tasarımı
+🌍 Dil: Türkçe
+# Sıfırdan-Mikrodenetleyici-Tasarımı
 Mantık kapısı seviyesinden (gate-level) register seviyesine kadar, 32-bit mikrodenetleyici mimarisi tasarımına yönelik adım adım bir rehber. Eğitim amaçlıdır.
 
 🚀 Proje Hakkında
@@ -29,11 +31,13 @@ Bu proje, önceden çizilmiş kesin sınırları olan bir müfredattan ziyade, h
 
 📁 İçindekiler:
 Bölüm 1: GPIO Birimine Yazma İşlemini Gerçekleştirecek Mimari Tasarımı
+
 Bölüm 2: ...
+
 Bölüm 3: ...
-. 
-. 
+.
+
+.
 
 📜 Lisans
 Lisans hakkında detaylı bilgi için "LICENSE" dosyasına göz atınız.
---------------------------------------------------------------------------------------
