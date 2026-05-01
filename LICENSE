@@ -5,7 +5,7 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 Copyright (c) 2026 Abdüsselam Bobaroğlu
 
 DISCLAIMER!
-The architectures and design decisions in this document are products of a personal learning process. As this work has been prepared through an exploratory and improvisational process, it may contain errors in critical engineering areas such as timing analysis, electrical safety, or stability. Any technical or legal responsibility arising from the use of this information belongs entirely to the user. This content is provided 'as is', without any warranty of any kind, express or implied. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the content or the use of this document.
+The architectures and design decisions presented in this document are the result of a personal learning process and are provided solely for educational and informational purposes. As this work has been developed through an exploratory and improvisational approach, it may contain errors or omissions in critical engineering areas such as timing analysis, electrical safety, stability, and related aspects. This content is not intended for production use, commercial applications, or safety-critical systems. Any technical, legal, or other responsibility arising from the use of the information presented in this document lies entirely with the user. This content is provided “as is”, without any express or implied warranties. The author shall not be held liable for any direct or indirect damages arising from the use of, or reliance on, the content of this document.
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
@@ -37,7 +37,8 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 Copyright (c) 2026 Abdüsselam Bobaroğlu
 
 SORUMLULUK REDDİ BEYANI!
-Bu belgedeki mimariler ve tasarım kararları, kişisel bir öğrenme sürecinin ürünleridir. Bu çalışma doğaçlama bir süreçle hazırlandığı için zamanlama analizi, elektriksel güvenlik veya kararlılık gibi kritik mühendislik alanlarında hatalar içerebilir. Bu bilgilerin kullanımından doğabilecek her türlü teknik veya hukuki sorumluluk kullanıcıya aittir. Bu içerik, herhangi bir açık veya zımni garanti verilmeksizin "olduğu gibi" sunulmaktadır. Hiçbir durumda yazar; bu belgenin içeriğinden veya kullanımından kaynaklanan herhangi bir iddia, hasar veya diğer sorumluluklardan (sözleşme davası, haksız fiil veya başka bir şekilde) sorumlu tutulamaz.
+Bu belgede yer alan mimariler ve tasarım kararları, kişisel bir öğrenme sürecinin ürünüdür ve yalnızca eğitim ve bilgilendirme amacıyla sunulmaktadır. Bu çalışma doğaçlama ve keşif odaklı bir yaklaşımla hazırlandığı için zamanlama analizi, elektriksel güvenlik, kararlılık ve benzeri kritik mühendislik alanlarında hatalar veya eksiklikler içerebilir. Bu içerik, üretim, ticari kullanım veya güvenlik açısından kritik sistemlerde kullanılmak üzere tasarlanmamıştır. Bu belgede sunulan bilgilerin kullanımından doğabilecek her türlü teknik, hukuki veya diğer sorumluluk tamamen kullanıcıya aittir. İçerik “olduğu gibi” sunulmakta olup, açık veya zımni hiçbir garanti verilmemektedir. Yazar, bu belgenin kullanımı veya içeriğinden kaynaklanan doğrudan veya dolaylı hiçbir zarardan sorumlu tutulamaz.
+
 
 Bu eser Creative Commons Atıf-GayriTicari-Türetilemez 4.0 Uluslararası
 Lisansı ile lisanslanmıştır.
