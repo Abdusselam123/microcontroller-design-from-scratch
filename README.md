@@ -29,9 +29,26 @@ For detailed information regarding the license, please refer to the "LICENSE" fi
 Mantık kapısı seviyesinden (gate-level) register seviyesine kadar, 32-bit mikrodenetleyici mimarisi tasarımına yönelik adım adım bir rehber. Eğitim amaçlıdır.
 
 ### 🚀 Proje Hakkında
-Bu proje, 32-bit bir mikrodenetleyici mimarisinin, en temel mantık kapılarından (gate-level) başlayarak register seviyesine kadar nasıl tasarlandığını adım adım açıklayan teknik bir rehberdir. Bir Makine Mühendisliği öğrencisi olarak, gömülü sistemlerin "mutfağını" anlamak adına hazırladığım bu çalışma; donanım ve yazılım arasındaki köprüyü kurmayı amaçlar.
+📘 Proje Hakkında
+Bu proje, mikrodenetleyici mimarisi ve düşük seviyeli sistem tasarımı üzerine kişisel bir öğrenme sürecini belgelemektedir.
 
-Bu proje, önceden çizilmiş kesin sınırları olan bir müfredattan ziyade, her adımda yeni soruların doğduğu doğaçlama bir tasarım sürecidir. Bu nedenle, projenin kaç bölümde tamamlanacağı veya nihai sınırları henüz belirlenmemiştir. Tasarım süreci geliştikçe yeni bölümler dökümana eklenecektir.
+Bu projenin amacı, endüstriyel kullanıma hazır veya doğrulanmış bir mikrodenetleyici tasarımı sunmak değildir. Bunun yerine, bu tür sistemlerin sıfırdan nasıl inşa edilebileceğini keşfetmeye odaklanır — temel dijital mantık yapılarından başlayarak daha üst seviye mimari bileşenlere doğru ilerleyen bir yaklaşımla.
+
+Bu süreç boyunca alınan tasarım kararları deneysel ve keşif odaklıdır. Bazı yaklaşımlar verimsiz, eksik ya da gerçek dünya uygulamalarından farklı olabilir. Bu durum bilinçli bir tercihtir.
+
+Temel amaçlar:
+* **mikrodenetleyici sistemlerin temel seviyede nasıl çalıştığını anlamak**
+* **tasarım problemlerini ilk prensiplerden yola çıkarak düşünmek**
+* **düşünce sürecini adım adım belgelemek**
+
+Bu proje, geleneksel bir ders kitabından ziyade yapılandırılmış bir “öğrenme günlüğü” olarak değerlendirilebilir.
+
+Eğer deneyimli bir mühendisseniz, özellikle yaklaşım, varsayımlar ve mimari akıl yürütme konularındaki geri bildirimleriniz benim için oldukça değerli olacaktır.
+
+Eğer öğrenen biriyseniz, bu proje sistemleri sıfırdan kurmanın ve sorgulamanın ne kadar güçlü bir öğrenme yöntemi olduğunu göstermeyi amaçlamaktadır.
+
+Not:
+Bu çalışma sürekli gelişmektedir. Yeni içgörüler elde edildikçe önceki tasarım kararları önemli ölçüde değişebilir.
 
 ### 📁 İçindekiler:
 
