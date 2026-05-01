@@ -10,9 +10,9 @@ The goal of this project is not to present a production-ready or industry-valida
 Throughout this process, design decisions are made in an experimental and exploratory manner. Some approaches may be inefficient, incomplete, or different from real-world industry practices. This is a natural result of an exploratory, learning-driven approach.
 
 The primary objective is:
-**.** to understand how microcontroller systems work at a fundamental level
-**.** to think through design problems from first principles
-**.** to document the reasoning process step by step
+* **.** to understand how microcontroller systems work at a fundamental level
+* **.** to think through design problems from first principles
+* **.** to document the reasoning process step by step
 
 This project can be seen as a structured “learning log” rather than a traditional textbook.
 
@@ -48,9 +48,9 @@ Bu projenin amacı, endüstriyel kullanıma hazır veya doğrulanmış bir mikro
 Bu süreç boyunca alınan tasarım kararları deneysel ve keşif odaklıdır. Bazı yaklaşımlar verimsiz, eksik ya da gerçek dünya uygulamalarından farklı olabilir. Bu, keşifsel ve öğrenmeye dayalı bir yaklaşımın doğal bir sonucudur.
 
 Temel amaçlar:
-**.** mikrodenetleyici sistemlerin temel seviyede nasıl çalıştığını anlamak
-**.** tasarım problemlerini ilk prensiplerden yola çıkarak düşünmek
-**.** düşünce sürecini adım adım belgelemek
+* **.** mikrodenetleyici sistemlerin temel seviyede nasıl çalıştığını anlamak
+* **.** tasarım problemlerini ilk prensiplerden yola çıkarak düşünmek
+* **.** düşünce sürecini adım adım belgelemek
 
 Bu proje, geleneksel bir ders kitabından ziyade yapılandırılmış bir “öğrenme günlüğü” olarak değerlendirilebilir.
 
