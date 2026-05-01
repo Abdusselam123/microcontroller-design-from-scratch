@@ -7,7 +7,7 @@ This repository documents a personal learning journey into microcontroller archi
 
 The goal of this project is not to present a production-ready or industry-validated microcontroller design. Instead, it focuses on exploring how such systems can be built from the ground up — starting from basic digital logic and progressing toward higher-level architectural components.
 
-Throughout this process, design decisions are made in an experimental and exploratory manner. Some approaches may be inefficient, incomplete, or different from real-world industry practices. This is intentional.
+Throughout this process, design decisions are made in an experimental and exploratory manner. Some approaches may be inefficient, incomplete, or different from real-world industry practices. This is a natural result of an exploratory, learning-driven approach.
 
 The primary objective is:
 **.** to understand how microcontroller systems work at a fundamental level
@@ -45,7 +45,7 @@ Bu proje, mikrodenetleyici mimarisi ve düşük seviyeli sistem tasarımı üzer
 
 Bu projenin amacı, endüstriyel kullanıma hazır veya doğrulanmış bir mikrodenetleyici tasarımı sunmak değildir. Bunun yerine, bu tür sistemlerin sıfırdan nasıl inşa edilebileceğini keşfetmeye odaklanır — temel dijital mantık yapılarından başlayarak daha üst seviye mimari bileşenlere doğru ilerleyen bir yaklaşımla.
 
-Bu süreç boyunca alınan tasarım kararları deneysel ve keşif odaklıdır. Bazı yaklaşımlar verimsiz, eksik ya da gerçek dünya uygulamalarından farklı olabilir. Bu durum bilinçli bir tercihtir.
+Bu süreç boyunca alınan tasarım kararları deneysel ve keşif odaklıdır. Bazı yaklaşımlar verimsiz, eksik ya da gerçek dünya uygulamalarından farklı olabilir. Bu, keşifsel ve öğrenmeye dayalı bir yaklaşımın doğal bir sonucudur.
 
 Temel amaçlar:
 **.** mikrodenetleyici sistemlerin temel seviyede nasıl çalıştığını anlamak
